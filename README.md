@@ -45,6 +45,11 @@
 
 	- 資料庫規劃 	
 	- 使用 CI 框架套版
+	- ajax 資料傳輸
+    	- Google 登入 API
+    	- Facebook 登入 API
+	- 紅陽、ibon 金流串接
+
 
 - <a href="https://q.twstudy.com/" target="_blank">金牌模擬考</a>
 
