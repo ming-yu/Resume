@@ -1,4 +1,3 @@
-<font face="微軟正黑體">
 # 邱明玉 (MING-YU CHIU)
 
  - 居住地：台南
@@ -56,9 +55,6 @@
  
  	- 資料庫規劃 	
 	- 使用 Laravel + Vue.js 套版
-
-</font>
-
 
 <!-- 宣告id-->
 [ilucky]: https://www.iluckystudy.com/  "愛好運命理網"
